@@ -1,0 +1,2 @@
+Nah, I'm just messin' with you, this readme is just for Github, my client wasn't recognizing the validity of folders. But hey, since you're here, take a gander at this: http://avatar.home.xs4all.nl/pictures/raccoon_readme.jpg
+I'm sure you'll be able to use that. :D
